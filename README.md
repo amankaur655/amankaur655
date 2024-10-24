@@ -31,7 +31,13 @@ Take a look at some of my work:
 
 ### [CI/CD Pipeline with Jenkins & Docker](https://github.com/amankaur655/geoapp.git)
 📌 **Description:** Developed a Jenkins CI/CD pipeline integrated with Docker for automated testing, building, and deployment.  
-🛠️ **Tools Used:** Jenkins, Docker, Git  
+🛠️ **Tools Used:** Jenkins, Docker, Git 
+
+---
+
+### [Shell script to list the resources in Cloud](https://github.com/amankaur655/AWS-shell-scripting-.git)
+📌 **Description:** Developed a shell script that takes two user inputs: region and service_name, and outputs a list of active AWS resources related to the specified service in the given region.  
+🛠️ **Tools Used:** AWS Services, AWS CLI, Git 
 
 
 ---
