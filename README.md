@@ -23,7 +23,7 @@ I'm a **DevOps Engineer** with a strong background in cloud infrastructure, auto
 ## 📂 Featured Projects
 Take a look at some of my work:
 
-### [AWS Infrastructure Automation with Terraform](https://github.com/amankaur655/Terraform-ec2.git)
+### [AWS Infrastructure Automation with Terraform](https://github.com/amankaur655/AWS-with-terraform.git)
 📌 **Description:** Automated cloud infrastructure setup on AWS using Terraform for consistent, scalable deployments.  
 🛠️ **Tools Used:** AWS, Terraform  
 
