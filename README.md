@@ -42,7 +42,7 @@ Take a look at some of my work:
 
 ---
 
-### [Serverless CRUD API Development] (https://github.com/amankaur655/serverless-API.git)
+### [Serverless CRUD API Development](https://github.com/amankaur655/serverless-API.git)### [Serverless CRUD API Development]
 📌 **Description:**  Delivered a scalable, fully functional serverless API that demonstrated the flexibility of AWS serverless architecture.
 🛠️ **Tools Used:** AWS Lambda, API Gateway, DynamoDB, S3, CloudFront, Route 53, AWS Certificate Manager
 
