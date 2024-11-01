@@ -42,6 +42,19 @@ Take a look at some of my work:
 
 ---
 
+### [Serverless CRUD API Development] (https://github.com/amankaur655/serverless-API.git)
+📌 **Description:**  Delivered a scalable, fully functional serverless API that demonstrated the flexibility of AWS serverless architecture.
+🛠️ **Tools Used:** AWS Lambda, API Gateway, DynamoDB, S3, CloudFront, Route 53, AWS Certificate Manager
+
+---
+
+### [Automated Provisioning and Management of Terraform State with AWS S3 and DynamoDB] (https://github.com/amankaur655/S3-terraform.git)
+📌 **Description:**  Automated provisioning and management of Terraform state files using AWS S3 and DynamoDB.  
+🛠️ **Tools Used:** AWS S3, DynamoDB, Terraform
+
+
+---
+
 ## 🌱 Currently Learning
 - **Advanced Kubernetes:** Exploring advanced Kubernetes features for multi-cluster management and scaling
 - **DevSecOps Practices:** Integrating security into CI/CD for a complete DevOps experience
