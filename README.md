@@ -1,7 +1,8 @@
 <h1>Hi, I'm Amandeep! <br/><a href="https://www.linkedin.com/in/amankaur5/">DevOps Professional</a></h1>
 
-## **Certification**
+## **Certifications and Trainings**
 - [Certified Kubernetes Administrator (CKA)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/c9231844-261f-4c00-9edb-706aec5c9aeb-amandeep-kaur-4fb4f38b-efcd-40a5-a3e2-e3bb0c9e6c64-certificate.pdf)
+- [Software Development Program](https://pdf.credential.net/rwj6xokt_1734628355998.pdf)
 
 ## **Technical Skills**
 
