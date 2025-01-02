@@ -1,6 +1,7 @@
 <h1>Hi, I'm Amandeep! <br/><a href="https://www.linkedin.com/in/amankaur5/">DevOps Professional</a></h1>
 
 <h2> Technical skills:</h2>
+
 ### **DevOps and Automation**
 - **Tools**: Terraform, Ansible, Jenkins, GitHub, Docker, Kubernetes  
 
