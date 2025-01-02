@@ -1,33 +1,20 @@
 <h1>Hi, I'm Amandeep! <br/><a href="https://www.linkedin.com/in/amankaur5/">DevOps Professional</a></h1>
 
-<h2> Technical skills:</h2>
+## **Technical Skills**
 
-### **DevOps and Automation**
-- **Tools**: Terraform, Ansible, Jenkins, GitHub, Docker, Kubernetes  
+| **Category**              | **Technologies/Tools**                                    |
+|---------------------------|----------------------------------------------------------|
+| **DevOps and Automation** | Terraform, Ansible, Jenkins, GitHub, Docker, Kubernetes   |
+| **Operating Systems**     | Linux                                                    |
+| **Cloud Platforms**       | AWS                                                      |
+| **Programming and Scripting** | Shell/Bash                                           |
+| **Monitoring and Reporting** | Prometheus, Splunk                                    |
+| **Configuration Management** | AWS CLI, Terraform, Ansible                           |
+| **Version Control**       | Git, JFrog Artifactory                                   |
+| **Collaboration Tools**   | Confluence, Jira                                        |
+| **Front-end Basics**      | HTML, CSS                                               |
 
-### **Operating Systems**
-- **Linux**  
-
-### **Cloud Platforms**
-- **AWS**  
-
-### **Programming and Scripting**
-- **Languages**: Shell/Bash  
-
-### **Monitoring and Reporting**
-- **Tools**: Prometheus, Splunk  
-
-### **Configuration Management**
-- **Tools**: AWS CLI, Terraform, Ansible  
-
-### **Version Control**
-- **Tools**: Git, JFrog Artifactory  
-
-### **Collaboration Tools**
-- **Tools**: Confluence, Jira  
-
-### **Front-end Basics**
-- **Technologies**: HTML, CSS  
+---
 
 
 <h2>👨‍💻 DevOps Projects:</h2>
