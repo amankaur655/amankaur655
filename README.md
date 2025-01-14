@@ -23,8 +23,8 @@
 
 <h2>👨‍💻 DevOps Projects:</h2>
 
-### [AWS Infrastructure Automation with Terraform](https://github.com/amankaur655/AWS-with-terraform.git)
-📌 **Description:** Automated cloud infrastructure setup on AWS using Terraform for consistent, scalable deployments.  
+### [Implemented two tier Architecture – AWS](https://github.com/amankaur655/two-tier-app.git)
+📌 **Description:** Deployed a multi-region,scalable architecture on EC2 instances with high availability using AWS console/Terraform.  
 🛠️ **Tools Used:** AWS, Terraform  
 
 ---
